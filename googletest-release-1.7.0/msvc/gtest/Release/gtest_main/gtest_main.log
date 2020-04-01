@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/3/30 17:53:49。
+     1>项目“D:\G_test_test\googletest-release-1.7.0\msvc\gtest_main.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /I..\include /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"gtest/Release\gtest_main\\" /Fd"gtest/Release\gtest_main\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\gtest_main.cc
+         gtest_main.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"gtest/Release\gtest_main.lib" /NOLOGO gtest/Release\gtest_main\gtest_main.obj
+         gtest_main.vcxproj -> D:\G_test_test\googletest-release-1.7.0\msvc\gtest/Release\gtest_main.lib
+     1>已完成生成项目“D:\G_test_test\googletest-release-1.7.0\msvc\gtest_main.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75

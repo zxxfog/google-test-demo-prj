@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/3/30 17:55:43。
+     1>项目“D:\G_test_test\gtest_prj\gtest_prj\gtest_prj.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\G_test_test\gtest_prj\src /ID:\G_test_test\gtest_prj\test /ID:\G_test_test\gtest_prj\gtest_lib\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\G_test_test\gtest_prj\Release\gtest_prj.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\G_test_test\gtest_prj\gtest_lib\lib gtest.lib gtest_main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\G_test_test\gtest_prj\Release\gtest_prj.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\G_test_test\gtest_prj\Release\gtest_prj.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\test_add.obj
+         正在生成代码
+         已完成代码的生成
+         gtest_prj.vcxproj -> D:\G_test_test\gtest_prj\Release\gtest_prj.exe
+     1>已完成生成项目“D:\G_test_test\gtest_prj\gtest_prj\gtest_prj.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.78
